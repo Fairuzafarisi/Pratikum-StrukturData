@@ -1,4 +1,4 @@
-Implementasi Stack di Python
+# Implementasi Stack di Python
 
 Program ini menunjukkan contoh sederhana bagaimana cara kerja struktur data Stack menggunakan list di Python.
 Stack menggunakan prinsip LIFO (Last In, First Out) — elemen yang terakhir masuk akan menjadi elemen pertama yang keluar.
@@ -110,7 +110,7 @@ Struktur data ini cocok digunakan untuk fitur undo, navigasi halaman (back), dan
 
 
 
-Implementasi Stack di Python
+# Implementasi Stack di Python
 
 Di contoh ini aku nunjukin cara kerja struktur data Stack di Python pakai list biasa. Stack sendiri punya prinsip LIFO (Last In, First Out), jadi data yang terakhir masuk nanti yang keluar duluan.
 
