@@ -1,10 +1,10 @@
-# 🔗 Implementasi Linked List di Python
+#  Implementasi Linked List di Python
 
 Program ini menunjukkan contoh sederhana **struktur data Linked List (singly linked list)** menggunakan list di Python. Linked List bekerja dengan prinsip **pointer/reference** — setiap node menyimpan data dan pointer ke node berikutnya.
 
 ---
 
-## 📘 Kode Program
+## Kode Program
 
 ```python
 class Node:
@@ -130,7 +130,7 @@ print(ll.length())
 
 ---
 
-## 📖 Penjelasan
+ ## Penjelasan
 
 ### 1. **Inisialisasi Node dan LinkedList**
 Membuat class `Node` untuk merepresentasikan setiap elemen dalam linked list, dan class `LinkedList` untuk mengelola seluruh list:
@@ -219,7 +219,7 @@ print(ll.length())
 
 ---
 
-## 🎯 Hasil Eksekusi
+## Hasil Eksekusi
 
 ```
 mangga -> 
@@ -232,7 +232,7 @@ mangga ->
 
 ---
 
-## 💡 Kesimpulan
+## Kesimpulan
 
 - **Linked List** di Python bisa dibuat dengan menggunakan class `Node` dan class `LinkedList`
 - **Operasi dasar:**
@@ -248,7 +248,7 @@ mangga ->
 
 ---
 
-## 📌 Catatan
+## Catatan
 
 - Linked List berbeda dengan array/list biasa karena tidak menyimpan data secara berurutan di memori
 - Setiap node menyimpan **data** dan **pointer** ke node berikutnya
@@ -256,32 +256,3 @@ mangga ->
 ```
 
 ---
-
-Penjelasan cara membuat README seperti ini:
-
-1. **Heading (Judul):**
-   - `#` = heading besar
-   - `##` = heading sedang
-   - `###` = heading kecil
-
-2. **Bold (Tebal):**
-   - `**teks**` = **teks tebal**
-
-3. **Italic (Miring):**
-   - `*teks*` = *teks miring*
-
-4. **Code Block:**
-   - ````python` untuk memulai code block Python
-   - ```` untuk menutup code block
-
-5. **Inline Code:**
-   - `` `kode` `` = `kode`
-
-6. **Horizontal Line:**
-   - `---` = garis pemisah
-
-7. **Emoji:**
-   - Bisa pakai emoji langsung: 🔗 📘 💡 🎯
-
-8. **Bullet Points:**
-   - `-` atau `*` di awal baris
