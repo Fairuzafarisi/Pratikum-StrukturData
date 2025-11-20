@@ -1,6 +1,6 @@
 #  Implementasi Linked List di Python
 
-Program ini menunjukkan contoh sederhana **struktur data Linked List (singly linked list)** menggunakan list di Python. Linked List bekerja dengan prinsip **pointer/reference** — setiap node menyimpan data dan pointer ke node berikutnya.
+Program ini menunjukkan contoh **struktur data Linked List (singly linked list)** menggunakan list di Python. Linked List bekerja dengan prinsip **pointer/reference** — setiap node menyimpan data dan pointer ke node berikutnya.
 
 ---
 
