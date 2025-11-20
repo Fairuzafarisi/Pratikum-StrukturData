@@ -254,5 +254,3 @@ mangga ->
 - Setiap node menyimpan **data** dan **pointer** ke node berikutnya
 - Operasi insert/delete di awal linked list lebih cepat dibanding array (O(1) vs O(n))
 ```
-
----
