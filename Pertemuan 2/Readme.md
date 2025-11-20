@@ -253,4 +253,3 @@ mangga ->
 - Linked List berbeda dengan array/list biasa karena tidak menyimpan data secara berurutan di memori
 - Setiap node menyimpan **data** dan **pointer** ke node berikutnya
 - Operasi insert/delete di awal linked list lebih cepat dibanding array (O(1) vs O(n))
-```
